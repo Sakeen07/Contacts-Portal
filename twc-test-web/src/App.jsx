@@ -35,7 +35,6 @@ function App() {
       // Update Redux store with login info
       dispatch(userActions.login())
       
-      // If no email is stored but we have a token, set a placeholder email
       if (!email) {
         console.warn('No email found in localStorage, setting placeholder')
         localStorage.setItem('userEmail', 'Logged User')
