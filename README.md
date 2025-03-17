@@ -7,18 +7,18 @@
 ### Backend Setup
 1. Navigate to the twc-test-api
 ```bash
-   cd twc-test-api
+   cd twc-test-api```
 
 2. In the terminal type the following command
 ```bash
    npm install
-   node app.mjs
+   node app.mjs```
 
 3. Navigate to the twc-test-web
 ```bash
-   cd twc-test-web
+   cd twc-test-web```
 
 4. In the terminal type the following command
 ```bash
    npm install
-   npm run dev
+   npm run dev```
