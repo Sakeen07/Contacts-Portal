@@ -26,3 +26,6 @@
    npm install
    npm run dev
 ```
+### Login Credentials
+- username - star123@gmail.com
+- password - fjoiwroiw294
